@@ -2,5 +2,24 @@ body{
     font-size: 1rem;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: black;
+    line-height: 1.4rem;
 }
-header{}
+h1{
+    font-size: 2rem;
+    line-height: 1.3rem;
+}
+
+p{
+    margin-top: 1.6rem;
+}
+
+.container{
+    width: 85%;
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+.header{
+    background: black;
+    color: white;
+}
